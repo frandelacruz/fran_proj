@@ -1,0 +1,16 @@
+h1{color:#50858B; text-align: center;}
+h2{color: #62A8AC;text-align: center}
+p{font-family: monospace;
+	color: #5497A7;
+	border: 1px solid #ffffff;
+	font-size: 20px;
+	text-align: center;
+
+}
+a{color: #5497A7;
+text-decoration: none;}
+body{background-color: #A1D2CE;
+margin: 100px;}
+img{margin: 0 auto;
+    display: block;
+}
